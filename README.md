@@ -12,6 +12,7 @@ List of free resource to learn programming
 
 ## JavaScript📜
 - [JavaScript Info](https://javascript.info/)
+- [JavaScript Algorithm and DataSctruture ~ FreeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
 
 ## Python🐍
 - [Real Python](https://realpython.com/learning-paths/become-python-web-developer/)
