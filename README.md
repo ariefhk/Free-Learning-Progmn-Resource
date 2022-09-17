@@ -8,6 +8,9 @@ List of free resource to learn programming
 
 - [W3Schools](https://www.w3schools.com/)
 
+## JavaScript📜
+- [JavaScript Info](https://javascript.info/)
+
 ## Python🐍
 - [Real Python](https://realpython.com/learning-paths/become-python-web-developer/)
 
