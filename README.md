@@ -18,6 +18,6 @@ List of free resource to learn programming
 - [Real Python](https://realpython.com/learning-paths/become-python-web-developer/)
 
 ## Github Repo (Buat Coders sejati 👨‍💻)
-- [30 Days of JavaScript by Asabeneh](https://github.com/Asabeneh/30-Days-Of-JavaScript)
-- [30 Days of Python by Asabeneh](https://github.com/Asabeneh/30-Days-Of-Python)
-- [30 Days of React by Asabeneh](https://github.com/Asabeneh/30-Days-Of-React)
+- [30 Days of JavaScript ~ Asabeneh](https://github.com/Asabeneh/30-Days-Of-JavaScript)
+- [30 Days of Python ~ Asabeneh](https://github.com/Asabeneh/30-Days-Of-Python)
+- [30 Days of React ~ Asabeneh](https://github.com/Asabeneh/30-Days-Of-React)
