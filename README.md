@@ -19,3 +19,4 @@ List of free resource to learn programming
 
 ## Github Repo (Buat Coders sejati 👨‍💻)
 - [30 Days of JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript)
+- [30 Days of Python](https://github.com/Asabeneh/30-Days-Of-Python)
