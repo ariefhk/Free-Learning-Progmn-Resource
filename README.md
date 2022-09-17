@@ -16,6 +16,7 @@ List of free resource to learn programming
 
 ## Python🐍
 - [Real Python](https://realpython.com/learning-paths/become-python-web-developer/)
+- [Python for Everybody](https://www.py4e.com/lessons)
 
 ## Github Repo (Buat Coders sejati 👨‍💻)
 - [30 Days of JavaScript ~ Asabeneh](https://github.com/Asabeneh/30-Days-Of-JavaScript)
