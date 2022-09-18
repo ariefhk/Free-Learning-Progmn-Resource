@@ -9,6 +9,7 @@ List of free resource to learn programming
 - [FreeCodeCamp](https://www.freecodecamp.org/)
 - [W3Schools](https://www.w3schools.com/)
 - [Bellshade (Github Repo)](https://github.com/bellshade)
+- [HTML CSS CheatSheet](https://htmlcheatsheet.com/)
 
 ## JavaScript📜
 - [JavaScript Info](https://javascript.info/)
