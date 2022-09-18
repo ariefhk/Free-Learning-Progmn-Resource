@@ -12,12 +12,19 @@ List of free resource to learn programming
 - [HTML CSS CheatSheet](https://htmlcheatsheet.com/)
 
 ## JavaScript📜
+- [JavaScript MDN Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [JavaScript Info](https://javascript.info/)
 - [JavaScript Algorithm and DataSctruture ~ FreeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
 
 ## Python🐍
 - [Real Python](https://realpython.com/learning-paths/become-python-web-developer/)
 - [Python for Everybody](https://www.py4e.com/lessons)
+
+## HTML📑
+- [HTML MDN Docs](https://developer.mozilla.org/en-US/docs/Web/HTML)
+
+## CSS💅
+- [CSS MDN Docs](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 ## Github Repo (Buat Coders sejati 👨‍💻)
 - [30 Days of JavaScript ~ Asabeneh](https://github.com/Asabeneh/30-Days-Of-JavaScript)
