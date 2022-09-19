@@ -26,6 +26,7 @@ List of free resource to learn programming
 
 ## CSS💅
 - [CSS MDN Docs](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- [CSS Trick](https://css-tricks.com/)
 
 ## Github Repo (Buat Coders sejati 👨‍💻)
 - [30 Days of JavaScript ~ Asabeneh](https://github.com/Asabeneh/30-Days-Of-JavaScript)
