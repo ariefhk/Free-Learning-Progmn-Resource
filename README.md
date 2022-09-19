@@ -35,3 +35,9 @@ List of free resource to learn programming
 - [Project Kalian ~ Sandhika Galih](https://github.com/sandhikagalih/project-kalian)
 - [Belajar JavaScript ~ Bellshade](https://github.com/bellshade/Javascript)
 - [Belajar Python ~ Bellshade](https://github.com/bellshade/Python)
+
+#AlgorithmGames🧠
+-[Hackerrank](https://www.hackerrank.com/dashboard)
+
+#Miscellaneous➕
+-[Math](https://www.hackerrank.com/domains/mathematics)
