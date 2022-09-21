@@ -36,8 +36,8 @@ List of free resource to learn programming
 - [Belajar JavaScript ~ Bellshade](https://github.com/bellshade/Javascript)
 - [Belajar Python ~ Bellshade](https://github.com/bellshade/Python)
 
-##AlgorithmGames🧠
+## AlgorithmGames🧠
 - [Hackerrank](https://www.hackerrank.com/dashboard)
 
-##Miscellaneous➕
+## Miscellaneous➕
 - [Math](https://www.hackerrank.com/domains/mathematics)
